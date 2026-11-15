@@ -29,6 +29,9 @@
 
 ## 🛠️ Technical Skills
 
+
+## 🛠️ Technical Skills
+
 ### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,c" />
@@ -44,18 +47,30 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
+- Node.js
+- Express.js
+- EJS (Embedded JavaScript Templates)
+- REST API Development
+- HTTP Methods and Routing
+- Middleware
+- Error Handling
+- Server-Side Rendering
+- SQL Database Integration with Node.js
+
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
+
+- SQL
+- MySQL
+- PostgreSQL
+- MongoDB
 
 ### Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 </p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 1. Falcon – PBL Project Hub
